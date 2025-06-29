@@ -28,6 +28,7 @@ header h1 {
 }
 
 .subtitle {
+  font-family: Verdana,Helvetica,Arial,sans-serif;
   font-size: 14px;
   color: #666;
   margin-bottom: 20px;
