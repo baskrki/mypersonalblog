@@ -87,7 +87,7 @@ article {
 article p {
   font-family: Verdana,Helvetica,Arial,sans-serif;
   font-size: 14px;
-  color: #333;
+  color: #000;
   line-height: 1.5;
 }
 
@@ -125,7 +125,7 @@ article p {
 .pdf-description {
   font-family: Verdana,Helvetica,Arial,sans-serif;
   font-size: 14px;
-  color: #555;
+  color: #000;
   margin-bottom: 10px;
   line-height: 1.4;
 }
